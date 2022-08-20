@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+THIS IS A PRACTIC PROJ USING REDUX TOOLKIT AND TYPESCRIPT TO BUILD A SIMPLE RESTAURANT RESERVATION SYSTEM.
+
 ## Available Scripts
 
 In the project directory, you can run:
