@@ -13,16 +13,18 @@
 
 .container {
   display: flex;
+  border: 5px solid green;
+  box-shadow: 1px;
 }
 
 .reservation-container {
   width: 20%;
-  border-right: 0.1rem solid rgba(58, 58, 58, 0.548);
+  border-right: 2px solid green;
 }
 
 .reservation-header {
   font-size: 1.5rem;
-  color: rgb(36, 36, 36);
+  color: rgb(11, 11, 11);
 }
 
 .reservation-cards-container {
@@ -30,7 +32,7 @@
 }
 
 .reservation-card-container {
-  background-color: white;
+  background-color: #9cfc97;
   padding: 0.5rem 1rem;
   border-radius: 0.4rem;
   box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, 0.171);
@@ -66,7 +68,7 @@
 }
 
 .customer-food-card-container {
-  background-color: white;
+  background-color: #9cfc97;
   padding: 0.5rem 1rem;
   border-radius: 0.4rem;
   box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, 0.171);
