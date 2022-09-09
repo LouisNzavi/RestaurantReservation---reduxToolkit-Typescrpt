@@ -25,6 +25,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Restaurant reservation system, add names and their order</h1>
       <div className="container">
         <div className="reservation-container">
           <div>
