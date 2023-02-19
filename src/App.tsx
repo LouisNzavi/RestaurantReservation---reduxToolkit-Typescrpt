@@ -10,7 +10,9 @@ function App() {
   const [reservationNameInput, setreservationNameInput] = useState("");
 
   const reservations = useSelector(
-    (state: RootState) => state.reservations.value
+    (state: RootState) => {
+      return state.reservations.value;
+    }
   );
 
   const customers = useSelector((state: RootState) => state.customer.value);
